@@ -11,7 +11,7 @@
 - Microsoft Excel, Microsoft Word, Git, Google Sheets, and Google Docs.
 ---
 ### Work Experience
-**August 2021** - My first major project was the design and creation of [my website](https://highitsky.com/). This website is solely HTML + CSS, entirely created by me. My greatest challenge with this project was making the navigation bar stick to the top of the screen upon scroll. Overall, this project took over 100 hours to complete. I continue to maintain this website today.
+**August 2021 to December 2021** - My first major project was the design and creation of [my website](https://highitsky.com/). This website is solely HTML + CSS, entirely created by me. My greatest challenge with this project was making the navigation bar stick to the top of the screen upon scroll. Overall, this project took over 100 hours to complete. I continue to maintain this website today.
 <!--
 **HighItsKy/HighItsKy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

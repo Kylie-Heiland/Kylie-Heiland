@@ -11,13 +11,11 @@
 - Microsoft Excel, Microsoft Word, Git, Google Sheets, and Google Docs.
 ---
 ### Work Experience 
-**August 2021 to December 2021** - My first major project was designing and creating [my website](https://highitsky.com/). This website is solely HTML + CSS, entirely created by me. My greatest challenge with this project was making the navigation bar stick to the top of the screen upon scroll. Overall, this project took over 100 hours to complete. I continue to maintain this website today.
+**August 2021 to December 2021** - My first major project was designing and creating [this website](https://highitsky.com/). This website is solely HTML + CSS, entirely created by me. My greatest challenge with this project was making the navigation bar stick to the top of the screen upon scroll. Overall, this project took over 100 hours to complete. I continue to maintain this website today.
 
 ---
 ### Achievements 
-- **2018 - 2021** Presidential Scholarship Recipient at Allen County Community College. I received this scholarship due to maintaining a 4.0 GPA.
-- **December 2020** All Kansas Coca-Cola Scholarship Recipient. I received this scholarship by submitting an essay on a chosen topic. Only two students were given this award that school year. 
-- **June 2023** Gary Younger Memorial Scholarship in Computer Science Recipient. I received this scholarship by submitting an essay that discussed my passion for computer science as well as my financial need. 
+- Gary Younger Memorial Scholarship in Computer Science Recipient. I received this scholarship by submitting an essay that discussed my passion for computer science as well as my financial need. 
 
 <!--
 **HighItsKy/HighItsKy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

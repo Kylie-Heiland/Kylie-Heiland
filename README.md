@@ -13,6 +13,8 @@
 ### Work Experience 
 **August 2021 to December 2021** - My first major project was designing and creating [this website](https://highitsky.com/). This website is solely HTML + CSS, entirely created by me. My greatest challenge with this project was making the navigation bar stick to the top of the screen upon scroll. Overall, this project took over 100 hours to complete. I continue to maintain this website today.
 
+**January 2022 to May 2022** - During this period, I partook in many C++ and Java projects. This was when I was first introduced to Java.
+
 ---
 ### Achievements 
 - Gary Younger Memorial Scholarship in Computer Science Recipient. I received this scholarship by submitting an essay that discussed my passion for computer science as well as my financial need. 

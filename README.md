@@ -17,7 +17,7 @@
 
 ---
 ### Achievements 
-- Gary Younger Memorial Scholarship in Computer Science Recipient. I received this scholarship by submitting an essay that discussed my passion for computer science and my financial need. 
+- Gary Younger Memorial Scholarship in Computer Science Recipient.
 
 <!--
 **HighItsKy/HighItsKy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

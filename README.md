@@ -2,7 +2,7 @@
 - 🤔 I am pursuing a career in full-stack web development or cybersecurity.
 - 📺 In my free time, I am a Twitch streamer and content creator.
 - 🎓 I graduated Summa Cum Laude in 2.5 years, majoring in Bachelor of Science in Computer Science with a minor in Web Development.
-- 📓 I begin my Master of Science in Computer Science in Fall 2024 at _TBD_.
+- 📓 I am pursuing a Master of Science in Computer Science at University of Texas: Austin.
 
 --- 
 ### What are my skills?

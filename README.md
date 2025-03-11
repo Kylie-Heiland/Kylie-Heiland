@@ -1,5 +1,5 @@
 ### Hi, my name is Kylie Heiland!👋 
-- 🤔 I am pursuing a career in full-stack web development or cybersecurity.
+- 🤔 I am pursuing a career in software engineering or cybersecurity.
 - 📺 In my free time, I am a Twitch streamer and content creator.
 - 🎓 I graduated Summa Cum Laude in 2.5 years, majoring in Bachelor of Science in Computer Science with a minor in Web Development.
 - 📓 I am pursuing a Master of Science in Computer Science at the University of Texas: Austin.
